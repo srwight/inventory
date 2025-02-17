@@ -1,5 +1,5 @@
 # Introduction
-The goal of this file is to learn about and study:
+The goal of this package is to learn about and study:
 * Dependency Injection
 * Unit Testing
 * Mocking
